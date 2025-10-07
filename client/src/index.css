@@ -268,7 +268,7 @@ body{
 
 /* Video Grid */
 .video-grid {
-	display: grid;
+	display: flex;
 	grid-template-columns: 1fr auto;
 	grid-template-rows: 1fr auto;
 	gap: 10px;
